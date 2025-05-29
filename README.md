@@ -3,8 +3,9 @@
 - Resolvendo 50 exercícios em diferentes linguagens de programação.
 ## ✅ Progresso
 
+
 - [ ] **Python**  
-  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/Python) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/616957985b72551bb0f7dc14440c3d15695b58ba/Python) - Em desenvolvimento
 - [ ] **JavaScript**  
   [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/JavaScript) - Em desenvolvimento
 - [ ] **Java**  
