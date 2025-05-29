@@ -21,7 +21,7 @@
 - [ ] **Julia**  
   [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/Julia/) - Em desenvolvimento
   
-# 📗 Lista de Exercícios |🟢 Facil 🟡 Médio 🔴 Difícil
+# 📗 Lista de Exercícios |🟢 Fácil 🟡 Médio 🔴 Difícil
 
 ```
 🟢 1. Soma Simples: Receba dois números e exiba a soma deles.
