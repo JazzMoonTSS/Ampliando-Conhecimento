@@ -4,21 +4,21 @@
 ## ✅ Progresso
 
 - [ ] **Python**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/Python) - Em desenvolvimento
 - [ ] **JavaScript**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/JavaScript) - Em desenvolvimento
 - [ ] **Java**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/Java) - Em desenvolvimento
 - [ ] **C++**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/C%2B%2B) - Em desenvolvimento
 - [ ] **C#**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/C%23) - Em desenvolvimento
 - [ ] **Kotlin**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/Kotlin) - Em desenvolvimento
 - [ ] **Rust**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/Rust) - Em desenvolvimento
 - [ ] **Julia**  
-  [[ Visualizar Repositório ]](https://github.com/) - Em desenvolvimento
+  [[ Visualizar Repositório ]](https://github.com/JazzMoonTSS/Ampliando-Conhecimento/tree/454928cd69c87bf7f7b68f727d6c6974aceae697/Julia/) - Em desenvolvimento
   
 # 📗 Lista de Exercícios
 
